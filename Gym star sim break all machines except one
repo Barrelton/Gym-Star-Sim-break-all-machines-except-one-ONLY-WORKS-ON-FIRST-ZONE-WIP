@@ -4,6 +4,12 @@ print("yes its also horrible")
 task.wait(0.1)
 print("this works on every executor im pretty sure")
 warn("FOR THE GAME: https://www.roblox.com/games/70906625936847/Gym-Star-Simulator")
+setclipboard("https://www.roblox.com/games/70906625936847/Gym-Star-Simulator")
+print("GAME LINK HAS BEEN COPIED TO YOUR CLIPBOARD!!!")
+print("GAME LINK HAS BEEN COPIED TO YOUR CLIPBOARD!!!")
+print("GAME LINK HAS BEEN COPIED TO YOUR CLIPBOARD!!!")
+print("GAME LINK HAS BEEN COPIED TO YOUR CLIPBOARD!!!")
+print("GAME LINK HAS BEEN COPIED TO YOUR CLIPBOARD!!!")
 --[[
 	Obfuscated with wfuscator <https://whut.dev/wfuscator/>
 	Obfuscation level: STANDARD
