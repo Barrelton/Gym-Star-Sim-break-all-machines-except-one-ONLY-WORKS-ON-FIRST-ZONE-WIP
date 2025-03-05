@@ -2,8 +2,8 @@ print("CREDITS TO WFUSCATOR FOR THE OBFUSCATOR")
 print("yes i made this script (barrelton)")
 print("yes its also horrible")
 task.wait(0.1)
-print("this works on zenith and maybe other execs lol, try argon if it doesnt work on your exec")
--- FOR THE GAME: https://www.roblox.com/games/70906625936847/Gym-Star-Simulator
+print("this works on every executor im pretty sure")
+warn("FOR THE GAME: https://www.roblox.com/games/70906625936847/Gym-Star-Simulator")
 --[[
 	Obfuscated with wfuscator <https://whut.dev/wfuscator/>
 	Obfuscation level: STANDARD
